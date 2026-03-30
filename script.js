@@ -13,7 +13,7 @@ function multiple() {
     }
 }
 // В случае клика на кнопку вызываем функцию multiple.
-processing_button.addEventListener("click", multiple)
+processing_button.addEventListener("click", multiple);
 
 
 // Получаем имя пользователя при загрузке страницы путём вызова модального окна.
